@@ -5,7 +5,7 @@ The experiment is set up based on [Irvinglove's model implementation](https://gi
 
 ### List of Files
  * ReadDataAmazon.py - read Amazon Product Review data into csv file
- * ReadData.py - pre-process csv data into input data for the HAN model. Each review is transformed from text into a max_sent X max_word matrix
+ * ReadData.py - pre-process csv data into input data for the HAN model. Each review is transformed from text into a _max_sent x max_word_** matrix
  * HanModel.py - [Irvinglove's HAN model implementation](https://github.com/Irvinglove/HAN-text-classification/blob/master/HAN_model.py)
  * Train.py - train model using training and validation set, built based on [HAN-text-classification Tutorial by Irvinglove](https://blog.csdn.net/Irving_zhang/article/details/77868620)
  * Predict.py - test model using testing data
