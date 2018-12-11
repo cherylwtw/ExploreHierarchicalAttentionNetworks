@@ -3,6 +3,13 @@ This repo is for self learning and exploring the HAN model. The HAN architecture
 
 The experiment is set up based on [Irvinglove's model implementation](https://github.com/Irvinglove/HAN-text-classification/blob/master/HAN_model.py) to explore the effect of dataset size and input dimension to the performance of the HAN model. In our experiment, we used the Amazon Product Review (referenced below).
 
+### List of Files
+ * 
+ * ReadData.py - 
+ 
+ * HanModel.py
+ * Train.py
+ * Predict.py
 
 ### Reference and Acknowledgment
 * [Hierarchical Attention Networks for Document Classification](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf) by Zichao Yang, Diyi Yang, Chris Dyer, Xiaodong He, Alex Smola1 and Eduard Hovy<br />
